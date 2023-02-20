@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at **[Deutsche Telekom IT Solutions](https://deutschetelekomitsolutions.ru/)**
-- 🌱 I’m currently learning **Golang** and **K8s**
-- 👯 I’m **Deutsche Telekom IT Solutions DevOps School** contributor
+- 🔭 I’m currently working at **[Tele2 (Russia)](https://tele2.ru/)**
 - 💬 Ask me about **Docker** :whale: and **Python** :snake:
 - 📫 How to reach me: [Telegram](https://t.me/aleksandr_gluhov)
 - ⚡ Fun fact: I like **memes**!
